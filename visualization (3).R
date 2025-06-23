@@ -1,5 +1,5 @@
 file.choose()
-my_data <- read.csv("/home/bif/Downloads/covid19_data.csv") 
+my_data <- read.csv("C:\\Users\\HP\\Downloads\\CSV_FILE USING R-20250508T160523Z-1-001\\CSV_FILE USING R\\covid19_data.csv") 
 head(my_data)
 
 str(my_data)
