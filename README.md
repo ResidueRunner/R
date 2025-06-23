@@ -1,2 +1,3 @@
 # R
-This is my R-programing repository # Anurag Yadav
+This is my R-programing repository 
+# Anurag Yadav
