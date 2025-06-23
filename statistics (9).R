@@ -105,7 +105,7 @@ head(mtcars)
 ?aov
 
 
-##Ungraded assignment
+##csv file reading
 file.choose()
 covid_data <- read.csv("/home/bif/Downloads/covid19_data.csv") 
 head(covid_data)
