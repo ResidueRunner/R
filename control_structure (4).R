@@ -57,7 +57,7 @@ for(i in 1:100){
   print(i)
 }
 
-#Exercise: Use for loop and next to print 1 to 35 skipping 7
+# Use for loop and next to print 1 to 35 skipping 7
 
 
 for(i in 1:35){
@@ -85,24 +85,3 @@ repeat{
 }
 
 
-#Print 1 to 5 using repeat and break
-
-#Exercise: Write a program to calculate factorial of a number
-
-data()
-
-
-x <- trees
-head(trees)
-tail(trees)
-data(iris)
-data()
-head(iris)
-head(mtcars)
-
-getwd()
-file.choose()
-my_file <- read.csv("/home/bif/Downloads/r_class1.csv")
-head(my_file)
-my_file1 <- read.table("/home/bif/Downloads/r_class1.txt",header=T,sep="\t")
-?read.csv
